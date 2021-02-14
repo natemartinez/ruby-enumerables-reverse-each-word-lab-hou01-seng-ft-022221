@@ -3,6 +3,7 @@ string_to_array = string.split(" ")
 sentence_array
 string_to_array.collect{ |element| 
 element.reverse }
+sentence_array
  
 end
   
